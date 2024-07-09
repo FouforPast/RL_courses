@@ -1,0 +1,4 @@
+At the end, own_hp 255: opp_hp 43. you win.
+round result: own hp 255 vs opp hp 43, you win 测试局数 1
+last reward 0
+can't receive signals within 10 seconds. let's terminate gym env.

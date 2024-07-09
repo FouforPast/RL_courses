@@ -1,0 +1,258 @@
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 1 time = 7
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 2 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 3 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 4 time = 6
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 5 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 6 time = 5
+At the end, own_hp 240: opp_hp 155. you win.
+round result: own hp 240 vs opp hp 155, you win 训练局数 7
+game = 7 time = 30
+At the end, own_hp 0: opp_hp 230. you lose.
+round result: own hp 0 vs opp hp 230, you lose 训练局数 8
+game = 8 time = 18
+At the end, own_hp 0: opp_hp 250. you lose.
+round result: own hp 0 vs opp hp 250, you lose 训练局数 9
+game = 9 time = 24
+At the end, own_hp 0: opp_hp 205. you lose.
+round result: own hp 0 vs opp hp 205, you lose 训练局数 10
+game = 10 time = 29
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 11 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 12 time = 6
+At the end, own_hp 0: opp_hp 253. you lose.
+round result: own hp 0 vs opp hp 253, you lose 训练局数 13
+game = 13 time = 23
+At the end, own_hp 0: opp_hp 231. you lose.
+round result: own hp 0 vs opp hp 231, you lose 训练局数 14
+game = 14 time = 27
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 15 time = 6
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 16 time = 5
+At the end, own_hp 2: opp_hp 255. you lose.
+round result: own hp 2 vs opp hp 255, you lose 训练局数 17
+game = 17 time = 39
+At the end, own_hp 0: opp_hp 283. you lose.
+round result: own hp 0 vs opp hp 283, you lose 训练局数 18
+game = 18 time = 27
+At the end, own_hp 249: opp_hp 241. you win.
+round result: own hp 249 vs opp hp 241, you win 训练局数 19
+game = 19 time = 31
+At the end, own_hp 0: opp_hp 205. you lose.
+round result: own hp 0 vs opp hp 205, you lose 训练局数 20
+game = 20 time = 23
+At the end, own_hp 0: opp_hp 255. you lose.
+round result: own hp 0 vs opp hp 255, you lose 训练局数 21
+game = 21 time = 25
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 22 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 23 time = 9
+At the end, own_hp 145: opp_hp 80. you win.
+round result: own hp 145 vs opp hp 80, you win 训练局数 24
+game = 24 time = 31
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 25 time = 21
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 26 time = 7
+At the end, own_hp 0: opp_hp 326. you lose.
+round result: own hp 0 vs opp hp 326, you lose 训练局数 27
+game = 27 time = 27
+At the end, own_hp 0: opp_hp 310. you lose.
+round result: own hp 0 vs opp hp 310, you lose 训练局数 28
+game = 28 time = 22
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 29 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 30 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 31 time = 13
+At the end, own_hp 0: opp_hp 139. you lose.
+round result: own hp 0 vs opp hp 139, you lose 训练局数 32
+game = 32 time = 36
+At the end, own_hp 0: opp_hp 345. you lose.
+round result: own hp 0 vs opp hp 345, you lose 训练局数 33
+game = 33 time = 22
+At the end, own_hp 148: opp_hp 0. you win.
+round result: own hp 148 vs opp hp 0, you win 训练局数 34
+game = 34 time = 28
+At the end, own_hp 225: opp_hp 0. you win.
+round result: own hp 225 vs opp hp 0, you win 训练局数 35
+game = 35 time = 24
+At the end, own_hp 245: opp_hp 76. you win.
+round result: own hp 245 vs opp hp 76, you win 训练局数 36
+game = 36 time = 30
+At the end, own_hp 0: opp_hp 140. you lose.
+round result: own hp 0 vs opp hp 140, you lose 训练局数 37
+game = 37 time = 20
+At the end, own_hp 250: opp_hp 166. you win.
+round result: own hp 250 vs opp hp 166, you win 训练局数 38
+game = 38 time = 31
+At the end, own_hp 0: opp_hp 160. you lose.
+round result: own hp 0 vs opp hp 160, you lose 训练局数 39
+game = 39 time = 20
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 40 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 41 time = 6
+At the end, own_hp 0: opp_hp 303. you lose.
+round result: own hp 0 vs opp hp 303, you lose 训练局数 42
+game = 42 time = 20
+At the end, own_hp 0: opp_hp 270. you lose.
+round result: own hp 0 vs opp hp 270, you lose 训练局数 43
+game = 43 time = 21
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 44 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 45 time = 6
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 46 time = 17
+At the end, own_hp 0: opp_hp 293. you lose.
+round result: own hp 0 vs opp hp 293, you lose 训练局数 47
+game = 47 time = 26
+At the end, own_hp 0: opp_hp 132. you lose.
+round result: own hp 0 vs opp hp 132, you lose 训练局数 48
+game = 48 time = 26
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 49 time = 6
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 50 time = 5
+At the end, own_hp 0: opp_hp 144. you lose.
+round result: own hp 0 vs opp hp 144, you lose 训练局数 51
+game = 51 time = 27
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 52 time = 27
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 53 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 54 time = 5
+At the end, own_hp 0: opp_hp 187. you lose.
+round result: own hp 0 vs opp hp 187, you lose 训练局数 55
+game = 55 time = 20
+At the end, own_hp 288: opp_hp 74. you win.
+round result: own hp 288 vs opp hp 74, you win 训练局数 56
+game = 56 time = 31
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 57 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 58 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 59 time = 6
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 60 time = 5
+At the end, own_hp 148: opp_hp 72. you win.
+round result: own hp 148 vs opp hp 72, you win 训练局数 61
+game = 61 time = 29
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 62 time = 26
+At the end, own_hp 0: opp_hp 245. you lose.
+round result: own hp 0 vs opp hp 245, you lose 训练局数 63
+game = 63 time = 22
+At the end, own_hp 225: opp_hp 0. you win.
+round result: own hp 225 vs opp hp 0, you win 训练局数 64
+game = 64 time = 28
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 65 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 66 time = 5
+At the end, own_hp 285: opp_hp 0. you win.
+round result: own hp 285 vs opp hp 0, you win 训练局数 67
+game = 67 time = 27
+At the end, own_hp 210: opp_hp 0. you win.
+round result: own hp 210 vs opp hp 0, you win 训练局数 68
+game = 68 time = 30
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 69 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 70 time = 11
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 71 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 72 time = 5
+At the end, own_hp 0: opp_hp 120. you lose.
+round result: own hp 0 vs opp hp 120, you lose 训练局数 73
+game = 73 time = 29
+At the end, own_hp 210: opp_hp 108. you win.
+round result: own hp 210 vs opp hp 108, you win 训练局数 74
+game = 74 time = 32
+At the end, own_hp 232: opp_hp 0. you win.
+round result: own hp 232 vs opp hp 0, you win 训练局数 75
+game = 75 time = 29
+At the end, own_hp 0: opp_hp 255. you lose.
+round result: own hp 0 vs opp hp 255, you lose 训练局数 76
+game = 76 time = 27
+At the end, own_hp 0: opp_hp 220. you lose.
+round result: own hp 0 vs opp hp 220, you lose 训练局数 77
+game = 77 time = 28
+At the end, own_hp 175: opp_hp 70. you win.
+round result: own hp 175 vs opp hp 70, you win 训练局数 78
+game = 78 time = 31
+At the end, own_hp 238: opp_hp 143. you win.
+round result: own hp 238 vs opp hp 143, you win 训练局数 79
+game = 79 time = 31
+At the end, own_hp 0: opp_hp 160. you lose.
+round result: own hp 0 vs opp hp 160, you lose 训练局数 80
+game = 80 time = 19
+At the end, own_hp 89: opp_hp 82. you win.
+round result: own hp 89 vs opp hp 82, you win 训练局数 81
+game = 81 time = 29
+At the end, own_hp 0: opp_hp 145. you lose.
+round result: own hp 0 vs opp hp 145, you lose 训练局数 82
+game = 82 time = 28
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 83 time = 5
+At the end, own_hp 0: opp_hp 260. you lose.
+round result: own hp 0 vs opp hp 260, you lose 训练局数 84
+game = 84 time = 23
+At the end, own_hp 0: opp_hp 130. you lose.
+round result: own hp 0 vs opp hp 130, you lose 训练局数 85
+game = 85 time = 29
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 86 time = 19
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 87 time = 5
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 88 time = 9
+At the end, own_hp 187: opp_hp 87. you win.
+round result: own hp 187 vs opp hp 87, you win 训练局数 89
+game = 89 time = 30
+At the end, own_hp 200: opp_hp 0. you win.
+round result: own hp 200 vs opp hp 0, you win 训练局数 90
+game = 90 time = 25
+can't receive signals within 5 seconds. let's terminate gym env.
+game = 91 time = 6
+At the end, own_hp 0: opp_hp 140. you lose.
+round result: own hp 0 vs opp hp 140, you lose 训练局数 92
+game = 92 time = 23
+At the end, own_hp 0: opp_hp 60. you lose.
+round result: own hp 0 vs opp hp 60, you lose 训练局数 93
+game = 93 time = 28
+At the end, own_hp 218: opp_hp 0. you win.
+round result: own hp 218 vs opp hp 0, you win 训练局数 94
+game = 94 time = 29
+At the end, own_hp 67: opp_hp 232. you lose.
+round result: own hp 67 vs opp hp 232, you lose 训练局数 95
+game = 95 time = 38
+At the end, own_hp 213: opp_hp 32. you win.
+round result: own hp 213 vs opp hp 32, you win 训练局数 96
+game = 96 time = 31
+At the end, own_hp 0: opp_hp 240. you lose.
+round result: own hp 0 vs opp hp 240, you lose 训练局数 97
+game = 97 time = 29
+At the end, own_hp 267: opp_hp 54. you win.
+round result: own hp 267 vs opp hp 54, you win 训练局数 98
+game = 98 time = 31
+At the end, own_hp 159: opp_hp 0. you win.
+round result: own hp 159 vs opp hp 0, you win 训练局数 99
+game = 99 time = 30
+训练结束
+game = 100 time = 0
+finish training
+获胜局数 23

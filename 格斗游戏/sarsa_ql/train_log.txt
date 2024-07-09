@@ -1,0 +1,4 @@
+At the end, own_hp 178: opp_hp 22. you win.
+Episode 0: loss is 0.222, rewards is 15.5
+At the end, own_hp 110: opp_hp 67. you win.
+Episode 1: loss is 0.282, rewards is 3.19

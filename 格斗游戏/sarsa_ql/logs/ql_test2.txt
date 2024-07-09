@@ -1,0 +1,13 @@
+At the end, own_hp 115: opp_hp 17. you win.
+round result: own hp 115 vs opp hp 17, you win 测试局数 1
+last reward 0
+At the end, own_hp 78: opp_hp 103. you lose.
+round result: own hp 78 vs opp hp 103, you lose 测试局数 2
+last reward 0
+At the end, own_hp 320: opp_hp 0. you win.
+round result: own hp 320 vs opp hp 0, you win 测试局数 3
+last reward 0
+At the end, own_hp 245: opp_hp 19. you win.
+round result: own hp 245 vs opp hp 19, you win 测试局数 4
+last reward 0
+can't receive signals within 10 seconds. let's terminate gym env.

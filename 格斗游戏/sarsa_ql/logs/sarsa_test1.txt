@@ -1,0 +1,88 @@
+At the end, own_hp 206: opp_hp 65. you win.
+round result: own hp 206 vs opp hp 65, you win 测试局数 1
+last reward 0
+At the end, own_hp 164: opp_hp 0. you win.
+round result: own hp 164 vs opp hp 0, you win 测试局数 2
+last reward 0
+At the end, own_hp 131: opp_hp 10. you win.
+round result: own hp 131 vs opp hp 10, you win 测试局数 3
+last reward 0
+At the end, own_hp 0: opp_hp 10. you lose.
+round result: own hp 0 vs opp hp 10, you lose 测试局数 4
+last reward 0
+At the end, own_hp 203: opp_hp 55. you win.
+round result: own hp 203 vs opp hp 55, you win 测试局数 5
+last reward 0
+At the end, own_hp 0: opp_hp 50. you lose.
+round result: own hp 0 vs opp hp 50, you lose 测试局数 6
+last reward 0
+At the end, own_hp 251: opp_hp 0. you win.
+round result: own hp 251 vs opp hp 0, you win 测试局数 7
+last reward 0
+At the end, own_hp 0: opp_hp 270. you lose.
+round result: own hp 0 vs opp hp 270, you lose 测试局数 8
+last reward 0
+At the end, own_hp 0: opp_hp 95. you lose.
+round result: own hp 0 vs opp hp 95, you lose 测试局数 9
+last reward 0
+At the end, own_hp 0: opp_hp 30. you lose.
+round result: own hp 0 vs opp hp 30, you lose 测试局数 10
+last reward 0
+At the end, own_hp 153: opp_hp 0. you win.
+round result: own hp 153 vs opp hp 0, you win 测试局数 11
+last reward 0
+At the end, own_hp 0: opp_hp 65. you lose.
+round result: own hp 0 vs opp hp 65, you lose 测试局数 12
+last reward 0
+At the end, own_hp 175: opp_hp 20. you win.
+round result: own hp 175 vs opp hp 20, you win 测试局数 13
+last reward 0
+At the end, own_hp 125: opp_hp 0. you win.
+round result: own hp 125 vs opp hp 0, you win 测试局数 14
+last reward 0
+At the end, own_hp 208: opp_hp 40. you win.
+round result: own hp 208 vs opp hp 40, you win 测试局数 15
+last reward 0
+At the end, own_hp 61: opp_hp 65. you lose.
+round result: own hp 61 vs opp hp 65, you lose 测试局数 16
+last reward 0
+At the end, own_hp 209: opp_hp 0. you win.
+round result: own hp 209 vs opp hp 0, you win 测试局数 17
+last reward 0
+At the end, own_hp 155: opp_hp 0. you win.
+round result: own hp 155 vs opp hp 0, you win 测试局数 18
+last reward 0
+At the end, own_hp 236: opp_hp 70. you win.
+round result: own hp 236 vs opp hp 70, you win 测试局数 19
+last reward 0
+At the end, own_hp 252: opp_hp 0. you win.
+round result: own hp 252 vs opp hp 0, you win 测试局数 20
+last reward 0
+At the end, own_hp 0: opp_hp 130. you lose.
+round result: own hp 0 vs opp hp 130, you lose 测试局数 21
+last reward 0
+At the end, own_hp 0: opp_hp 300. you lose.
+round result: own hp 0 vs opp hp 300, you lose 测试局数 22
+last reward 0
+At the end, own_hp 235: opp_hp 0. you win.
+round result: own hp 235 vs opp hp 0, you win 测试局数 23
+last reward 0
+At the end, own_hp 0: opp_hp 110. you lose.
+round result: own hp 0 vs opp hp 110, you lose 测试局数 24
+last reward 0
+At the end, own_hp 0: opp_hp 25. you lose.
+round result: own hp 0 vs opp hp 25, you lose 测试局数 25
+last reward 0
+At the end, own_hp 162: opp_hp 0. you win.
+round result: own hp 162 vs opp hp 0, you win 测试局数 26
+last reward 0
+At the end, own_hp 36: opp_hp 0. you win.
+round result: own hp 36 vs opp hp 0, you win 测试局数 27
+last reward 0
+At the end, own_hp 0: opp_hp 20. you lose.
+round result: own hp 0 vs opp hp 20, you lose 测试局数 28
+last reward 0
+At the end, own_hp 145: opp_hp 0. you win.
+round result: own hp 145 vs opp hp 0, you win 测试局数 29
+last reward 0
+can't receive signals within 10 seconds. let's terminate gym env.
